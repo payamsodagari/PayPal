@@ -1,0 +1,147 @@
+body {
+    width: 100%;
+    background-color: #ffffff;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nav-bar ul li{
+    border: 1px solid blue;
+    border-radius: 7px;
+    background-color: #95a8e1;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#nav-bar li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0;
+    padding: 15px;`
+}
+
+#right-up {
+    margin-left: 850px;
+}
+
+#left-side-welcome {
+    border: 1px solid gray;
+    width: 150px;
+    background-color: #f5f5f5;
+  
+}
+
+.left-side-header {
+    background-color: #dddddd;
+    margin-left: 0px;
+    padding-left: 10px;
+}
+
+#leftside {
+    width: 10%;
+    position: absolute;
+}
+#left-side-welcome h2 {
+    height: 35px;
+    margin-top: 0px;
+}
+
+#left-side-news {
+    border: 1px solid gray;
+    width: 150px;
+    background-color: #f5f5f5;
+    margin-top: 40px;
+}
+
+.left-side-content {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.left-side-content button{
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#left-side-news p{
+    padding-left: 50px;
+    font-size: 12px;
+}
+#left-side-news h2{
+    background-color: #dddddd;
+    height: 35px;
+    margin-top: 0px;
+}
+
+#left-side-news h2 a{
+    font-size: 15px;
+    padding-left: 35px;
+}
+
+#left-logo img{
+    width: 150px;
+    height: 40px;
+}
+
+#main {
+    width: 70%;
+    margin-left: 170px;
+
+}
+#main-up h1{
+    margin-top: 0px;
+    color: #3a6fac;
+}
+
+#main-up h2{
+    size: 20px;
+}
+#main-up-left {
+    display: inline-block;
+}   
+
+#main-up-right {
+    vertical-align: top;
+    display: inline-block;
+}
+#main-middle {
+    border: 1px solid darkgoldenrod;
+    font-size: 20px;
+    background-color: lightgoldenrodyellow;
+    width: 450px;
+    padding: 8px;
+    text-align: center;
+}
+
+#main-content-business {
+    vertical-align: top;
+    display: inline-block;
+    padding-left: 43px;
+} 
+#main-logo-sold {
+
+}
+#main-content-sold {
+    vertical-align: top;
+    display: inline-block;
+    padding-left: 43px;
+
+}
+
+#spot {
+    border: 1px solid whitesmoke;
+    font-size: 15px bold;
+    background-color: #dddddd;
+    width: 450px;
+    padding: 8px;
+    margin-top: 15px;
+}
+
+#footer {
+    text-align: center;
+}
+
+#link-footer {
+}
+#footer img{
+    padding: 30px 30px 0px 30px;
+}
+
